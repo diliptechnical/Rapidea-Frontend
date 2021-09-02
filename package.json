@@ -1,0 +1,48 @@
+{
+    "name": "swaracreations",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "@amcharts/amcharts4": "^4.10.9",
+        "axios": "^0.19.2",
+        "core-js": "^3.6.5",
+        "eslint": "^7.32.0",
+        "eslint-plugin-vue": "^7.15.1",
+        "jquery": "^3.5.1",
+        "jquery-zoom": "^1.7.21",
+        "particles.vue": "^2.1.7",
+        "popper.js": "^1.16.1",
+        "sass-loader": "^10.0.2",
+        "vue": "^2.6.11",
+        "vue-amcharts-bar": "^1.0.3",
+        "vue-content-loading": "^1.6.0",
+        "vue-lazyload": "^1.3.3",
+        "vue-loading-skeleton": "^1.1.9",
+        "vue-owl-carousel": "^2.0.3",
+        "vue-owl-carousel2": "^2.0.7",
+        "vue-product-carousel": "^1.2.0",
+        "vue-product-zoomer": "^3.0.1",
+        "vue-props": "^1.0.0",
+        "vue-router": "^3.2.0",
+        "vue-stripe-checkout": "^3.5.10",
+        "vue-toasted": "^1.1.28",
+        "vue-zoom": "^1.2.0",
+        "vue-zoom-pro": "^0.1.2",
+        "vuejs-form": "^1.2.9",
+        "vuejs-validators": "^1.1.7",
+        "vueperslides": "^2.15.2",
+        "vuex": "^3.5.1"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.4.0",
+        "@vue/cli-plugin-eslint": "~4.4.0",
+        "@vue/cli-plugin-router": "~4.4.0",
+        "@vue/cli-service": "~4.4.0",
+        "vue-template-compiler": "^2.6.11"
+    }
+}
